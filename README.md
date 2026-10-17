@@ -68,3 +68,7 @@ Some notebooks were originally developed in Google Colab and may install additio
 ## Academic Context
 
 Developed as part of CSCI 167 deep-learning coursework at California State University, Fresno.
+
+## Project scope
+
+This repository contains coursework notebooks and exercises. It is not a reproduction of the separate final deep-learning benchmarking project. Execution of individual notebooks may require their original Colab environment or additional datasets.
